@@ -1,6 +1,6 @@
-body
+ body
 {
-  color: white;
+  color: rgb(0, 0, 0) 255 ;
   background: linear-gradient(#000000 0% ,#a75af8 );
 }
 span
@@ -9,7 +9,7 @@ span
 }
 #camera , #result
 {
-  border: 2px dashed black;
+  border: 2px dashed rgb(0, 0, 0);
   width: 350px;
   height: 300px; 
 }
